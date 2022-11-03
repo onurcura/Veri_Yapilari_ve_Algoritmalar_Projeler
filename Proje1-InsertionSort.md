@@ -43,6 +43,7 @@
 * 6, üçüncü eleman ile kıyaslanır. 6<18 olduğu için elemanlar yer değiştirir.
 * 6, ikinci eleman ile kıyaslanır. 6<16 olduğu için elemanlar yer değiştirir.
 * 6, birinci eleman ile kıyaslanır. 6>2 olduğu için elemanlar yer değiştirmez.
+
 `[2,6,16,18,22,27]`
 
 ---
